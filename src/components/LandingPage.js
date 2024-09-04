@@ -109,7 +109,7 @@ function LandingPage() {
         </nav>
       </header>
 
-      <main id='home' className="flex flex-col items-center justify-center text-center pt-[72px] py-0 px-0">
+      <main id='home' className="flex flex-col items-center justify-center text-center pt-[45px] md:pt-[72px] py-0 px-0">
         <div className="bg-cover bg-center w-full h-screen md:h-[484px]" style={{ backgroundImage: `url(${bg_landing})` }}>
           <div className="h-full bg-black bg-opacity-30 items-center justify-center py-[150px] md:pt-[70px] px-[50px] md:pl-[129px]">
             <div className="flex-col text-left">
